@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ASPCoreWebAPI
+*.user
+/WebApplication1/obj
+/WebApplication1/bin
+/AdvancedHealthMonitor/obj
+/AdvancedHealthMonitor/bin
